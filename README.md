@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**DanielTataev/DanielTataev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌟 Data Enthusiast with a Passion for Social Research & Analytics
 
-Here are some ideas to get you started:
+### Collect 📊
+With a background in **social psychology** and **social research**, I possess both theoretical and practical knowledge in survey design and impact assessment. I have experience in data collection and management using tools such as:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Kobo Toolbox**
+- **Qualtrics**
+- **Commcare**
+- **Airtable**
+
+---
+
+### Process 🔄
+As an **Alteryx Designer Advanced Certified** analyst, I can help improve existing workflows and create new processes. My expertise includes:
+
+- Data transformation and unification
+- Spatial and predictive analysis
+- Automation of workflows for better efficiency
+
+---
+
+### Visualise 📈
+I am a **Tableau Desktop Certified Professional** with extensive experience in data visualization best practices. My skills include creating interactive tools and static infographics that are optimized for both online and print consumption. I have primarily worked with:
+
+- **Tableau**
+- **Power BI**
+- **Flourish**
+
+---
+
+Let's connect and explore how data can drive impactful decisions! 🌐
