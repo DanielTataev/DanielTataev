@@ -3,6 +3,7 @@
 # 🌟 Data and Marketing Analyst with diverse experience.
 
 **Resume**
+**([Resume](https://github.com/DanielTataev/Resume/blob/2c28a94f967103cea592f6086619cc6823548b28/README.md)))**
 
 **([Examples of work](https://github.com/DanielTataev/Data-analytics-portfolio.git))**
 
