@@ -3,7 +3,7 @@
 # 🌟 Data and Marketing Analyst with diverse experience.
 
 Here are a few examples of work I have done in the past
-[few examples of work]([Python/Lender%20Loans%20Dashboard](https://github.com/DanielTataev/Data-analytics-portfolio/tree/main))
+[Data collection for the Lenders Dashboard](Data-analytics-portfolio)
 
 ### Collect 📊
 With a background in **marketing** and **insurance**, I possess both theoretical and practical knowledge in competitor research and financial assessment. I have experience in data collection and management using tools such as **Azure Data Lake**, **Google BigQuery**
